@@ -2,6 +2,10 @@
 
 This application was created as an assignment for the UT Full Stack Coding bootcamp. I added ontop of the starter code provided by the bootcamp. While this project is still a work-in-progress, it generates a README file by collecting user input via CLI.
 
+Watch a demonstration of the functional project here:
+
+[Test_README_GENERATOR.webm](https://user-images.githubusercontent.com/87347760/235320207-0b9cb1eb-c7cb-4675-81a9-5adc5e406503.webm)
+
 
 ## Table of Contents
 
