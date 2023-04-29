@@ -3,6 +3,8 @@ const answers = require('../index.js');
 
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
+
+//This switch statement is a WIP and is not used in the functional project
 function renderLicenseBadge(license) {
   console.log(license);
   switch(license) {
